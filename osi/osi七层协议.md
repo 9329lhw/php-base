@@ -1,13 +1,17 @@
 https://www.cnblogs.com/jeanschen/p/3762475.html
 
 # OSI七层模型详解 TCP/IP协议
-状态        | 含义
---------- | -------
-not-start | 当前未开始总结
-doing     | 总结中
-α         | 目前仅供参考未修正和发布
-done      | 总结完毕
-fixing    | 查漏补缺修改中
+OSI中的层  | 功能                |      TCP/IP协议族
+----------| ----------------  |         TCP/IP协议族
+α         | 目前仅供参考未修正和发布|       TCP/IP协议族
+α         | 目前仅供参考未修正和发布|       TCP/IP协议族
+α         | 目前仅供参考未修正和发布|       TCP/IP协议族
+done      | 总结完毕                |       TCP/IP协议族
+fixing    | 查漏补缺修改中             |TCP/IP协议族
+fixing    | 查漏补缺修改中             |TCP/IP协议族
+fixing    | 查漏补缺修改中             |TCP/IP协议族TCP/IP协议族
+fixing    | 查漏补缺修改中             |TCP/IP协议族
+fixing    | 查漏补缺修改中             |TCP/IP协议族
 
     总结
     OSI中的层
