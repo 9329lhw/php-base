@@ -140,56 +140,7 @@ r*    | 重点识记
   - 常见业务实际使用
   - redis的基础数据结构
 
-- Docker
-  - [redis主从搭建](https://github.com/TIGERB/easy-tips/blob/master/docker/redis-master-slave/README.md)
-  - [mysql主从搭建](https://github.com/TIGERB/easy-tips/blob/master/docker/mysql-master-slave/README.md)
-  - [codis环境](https://github.com/TIGERB/easy-tips/blob/master/docker/codis/README.md)
-  - mysql多主环境
-  - kafka的环境搭建和使用
-  - rabbitMQ的环境搭建和使用
-  - zookeeper的环境搭建和使用
-  - etcd的环境搭建和使用
-  - ELK的环境搭建和使用
-  - 网关服务kong的环境搭建和使用
-  - 我所理想的架构
-
 - 设计模式(done/fixing)
-
-  - [概念](https://github.com/TIGERB/easy-tips/blob/master/patterns/thought.md#设计模式)
-
-  - 创建型模式实例
-
-    - [单例模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/singleton/test.php)
-    - [工厂模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/factory/test.php)
-    - [抽象工厂模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/factoryAbstract/test.php)
-    - [原型模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/prototype/test.php)
-    - [建造者模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/produce/test.php)
-
-  - 结构型模式实例
-
-    - [桥接模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/bridge/test.php)
-    - [享元模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/flyweight/test.php)
-    - [外观模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/facade/test.php)
-    - [适配器模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/adapter/test.php)
-    - [装饰器模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/decorator/test.php)
-    - [组合模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/composite/test.php)
-    - [代理模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/proxy/test.php)
-    - [过滤器模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/filter/test.php)
-
-  - 行为型模式实例
-
-    - [模板模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/template/test.php)
-    - [策略模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/strategy/test.php)
-    - [状态模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/state/test.php)
-    - [观察者模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/observer/test.php)
-    - [责任链模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/chainOfResponsibility/test.php)
-    - [访问者模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/visitor/test.php)
-    - [解释器模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/interpreter/test.php)
-    - [备忘录模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/memento/test.php)
-    - [命令模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/command/test.php)
-    - [迭代器模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/iterator/test.php)
-    - [中介者器模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/mediator/test.php)
-    - [空对象模式](https://github.com/TIGERB/easy-tips/blob/master/patterns/nullObject/test.php)
 
 - [数据结构(doing)](https://github.com/TIGERB/easy-tips/blob/master/data-structure.md)
 
@@ -220,51 +171,20 @@ r*    | 重点识记
       - [基数排序](https://github.com/TIGERB/easy-tips/blob/master/algorithm/sort/radix.php)
 
 - 网络基础(doing)
-
+  - [网络状态码](https://github.com/TIGERB/easy-tips/blob/master/network/internet-protocol.md#互联网协议)
+  - [iso七层协议](https://github.com/TIGERB/easy-tips/blob/master/network/internet-protocol.md#互联网协议)
+  - [tcp/ip四层协议](https://github.com/TIGERB/easy-tips/blob/master/network/internet-protocol.md#互联网协议)
+  - [三次握手/四次挥手](https://github.com/TIGERB/easy-tips/blob/master/network/internet-protocol.md#互联网协议)
   - [互联网协议概述](https://github.com/TIGERB/easy-tips/blob/master/network/internet-protocol.md#互联网协议)
-  - [client和nginx简易交互过程](https://github.com/TIGERB/easy-tips/blob/master/network/nginx.md#client和nginx简易交互过程)
-  - [nginx和php-fpm简易交互过程](https://github.com/TIGERB/easy-tips/blob/master/network/nginx.md#nginx和php简易交互过程)
   - [http](https://github.com/TIGERB/easy-tips/blob/master/network/http.md)
-    - 报文
-      - 报文头部
-      - 报文体
-    - 常见13种状态码
-    - 方法method
     - https
     - http2
-    - websocket
-
+  - websocket
+    
 - 计算机基础(doing)
 
   - [linux常用命令](https://github.com/TIGERB/easy-tips/blob/master/linux/command.md)
   - shell
 
 - 高并发相关(not-start)
-
-## 测试用例
-
-### 设计模式
-
-运行脚本： php patterns/[文件夹名称]/test.php
-
-```
-例如,
-
-测试责任链模式： 运行 php patterns/chainOfResponsibility/test.php
-
-运行结果：
-
-请求5850c8354b298: 令牌校验通过～
-请求5850c8354b298: 请求频率校验通过～
-请求5850c8354b298: 参数校验通过～
-请求5850c8354b298: 签名校验通过～
-请求5850c8354b298: 权限校验通过～
-```
-
-
-## 面试梳理
-## 纠错
-
-如果大家发现有什么不对的地方，可以发起一个[issue](https://github.com/TIGERB/easy-tips/issues)或者[pull request](https://github.com/TIGERB/easy-tips),我会及时纠正，THX～
-
-> 补充:发起pull request的commit message请参考文章[Commit message编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+- 面试相关
