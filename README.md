@@ -10,26 +10,11 @@
 <a href="https://github.com/TIGERB/easy-tips/tree/master/redis">
   <img src="https://img.shields.io/badge/redis-doing-blue.svg" alt="redis">
 </a>
-<a href="https://github.com/TIGERB/easy-tips/tree/master/patterns">
-  <img src="https://img.shields.io/badge/patterns-done-brightgreen.svg" alt="patterns">
-</a>
-<a href="https://github.com/TIGERB/easy-tips/tree/master/algorithm">
-  <img src="https://img.shields.io/badge/algorithm-%CE%B1-yellowgreen.svg" alt="algorithm">
-</a>
 <a href="https://github.com/TIGERB/easy-tips/tree/master/data-structure">
   <img src="https://img.shields.io/badge/data--structure-doing-blue.svg" alt="data-structure">
 </a>
 <a href="https://github.com/TIGERB/easy-tips/tree/master/network">
   <img src="https://img.shields.io/badge/network-doing-blue.svg" alt="network">
-</a>
-<a href="https://github.com/TIGERB/easy-tips/tree/master/docker">
-  <img src="https://img.shields.io/badge/docker-doing-blue.svg" alt="docker">
-</a>
-<a href="#backers" alt="sponsors on Open Collective">
-<img src="https://opencollective.com/easy-tips/backers/badge.svg" />
-</a> 
-<a href="#sponsors" alt="Sponsors on Open Collective">
-<img src="https://opencollective.com/easy-tips/sponsors/badge.svg" />
 </a> 
 </p>
 
@@ -52,6 +37,7 @@ doing     | 总结中
 α         | 目前仅供参考未修正和发布
 done      | 总结完毕
 fixing    | 查漏补缺修改中
+*         | 重点识计
 
 ## 目录
 
@@ -330,100 +316,9 @@ Array
 count值为：1
 
 ```
-
+## 面试梳理
 ## 纠错
 
 如果大家发现有什么不对的地方，可以发起一个[issue](https://github.com/TIGERB/easy-tips/issues)或者[pull request](https://github.com/TIGERB/easy-tips),我会及时纠正，THX～
 
 > 补充:发起pull request的commit message请参考文章[Commit message编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
-
-## 英文版
-
-因为国外开发者的要求和个人的时间有限，征集大家有兴趣的可以把本项目进行英文版翻译。希望国外的developer也可以受益于这个项目～
-
-翻译文件认领申请：<https://github.com/TIGERB/easy-tips/issues/36>
-
-## 感谢
-
-感谢以下朋友的issue或pull request：
-
-<p>
-  <a href="https://github.com/faynwol">
-    <img src="https://avatars1.githubusercontent.com/u/2764772?s=460&v=4" width="50px" style="border-radius: 25px !important;;">
-  </a>
-  <a href="https://github.com/whahuzhihao">
-    <img src="https://avatars3.githubusercontent.com/u/2089083?s=460&v=4" width="50px" style="border-radius: 25px !important;;">
-  </a>
-  <a href="https://github.com/snriud">
-    <img src="https://avatars1.githubusercontent.com/u/2269679?s=460&v=4" width="50px" style="border-radius: 25px !important;;">
-  </a>
-  <a href="https://github.com/fhefh2015">
-    <img src="https://avatars1.githubusercontent.com/u/14891797?s=460&v=4" width="50px" style="border-radius: 25px !important;;">
-  </a>
-  <a href="https://github.com/RJustice">
-    <img src="https://avatars1.githubusercontent.com/u/2288594?s=460&v=4" width="50px" style="border-radius: 25px !important;;">
-  </a>
-  <a href="https://github.com/ooing">
-    <img src="https://avatars1.githubusercontent.com/u/5188151?s=460&v=4" width="50px" style="border-radius: 25px !important;;">
-  </a>
-  <a href="https://github.com/entimm">
-    <img src="https://avatars0.githubusercontent.com/u/1958077?s=460&v=4" width="50px" style="border-radius: 25px !important;;">
-  </a>
-  <a href="https://github.com/jealone">
-    <img src="https://avatars0.githubusercontent.com/u/3907286?s=460&v=4" width="50px" style="border-radius: 25px !important;;">
-  </a>
-  <a href="https://github.com/cugblbs">
-    <img src="https://avatars1.githubusercontent.com/u/8310816?s=460&v=4" width="50px" style="border-radius: 25px !important;;">
-  </a>
-  <a href="https://github.com/CmderQ">
-    <img src="https://avatars3.githubusercontent.com/u/9278467?s=460&v=4" width="50px" style="border-radius: 25px !important;;">
-  </a>
-  <a href="https://github.com/neetdai">
-    <img src="https://avatars3.githubusercontent.com/u/17525313?s=460&v=4" width="50px" style="border-radius: 25px !important;;">
-  </a>
-  <a href="https://github.com/yangqiphp">
-    <img src="https://avatars3.githubusercontent.com/u/14936391?s=460&v=4" width="50px" style="border-radius: 25px !important;;">
-  </a>
-  <a href="https://github.com/akmumu">
-    <img src="https://avatars2.githubusercontent.com/u/3242526?s=460&v=4" width="50px" style="border-radius: 25px !important;;">
-  </a>
-  <a href="https://github.com/DukeAnn">
-    <img src="https://avatars2.githubusercontent.com/u/15902491?s=460&v=4" width="50px" style="border-radius: 25px !important;;">
-  </a>
-  <a href="https://github.com/onlyshow">
-    <img src="https://avatars2.githubusercontent.com/u/12505832?s=460&v=4" width="50px" style="border-radius: 25px !important;">
-  </a>
-  
-</p>
-
-## 赞赏
-
-<img src="money-qrcode.jpg" width="300px">
-
-## Contributors
-
-This project exists thanks to all the people who contribute. 
-<a href="graphs/contributors"><img src="https://opencollective.com/easy-tips/contributors.svg?width=890&button=false" /></a>
-
-
-## Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/easy-tips#backer)]
-
-<a href="https://opencollective.com/easy-tips#backers" target="_blank"><img src="https://opencollective.com/easy-tips/backers.svg?width=890"></a>
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/easy-tips#sponsor)]
-
-<a href="https://opencollective.com/easy-tips/sponsor/0/website" target="_blank"><img src="https://opencollective.com/easy-tips/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/easy-tips/sponsor/1/website" target="_blank"><img src="https://opencollective.com/easy-tips/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/easy-tips/sponsor/2/website" target="_blank"><img src="https://opencollective.com/easy-tips/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/easy-tips/sponsor/3/website" target="_blank"><img src="https://opencollective.com/easy-tips/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/easy-tips/sponsor/4/website" target="_blank"><img src="https://opencollective.com/easy-tips/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/easy-tips/sponsor/5/website" target="_blank"><img src="https://opencollective.com/easy-tips/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/easy-tips/sponsor/6/website" target="_blank"><img src="https://opencollective.com/easy-tips/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/easy-tips/sponsor/7/website" target="_blank"><img src="https://opencollective.com/easy-tips/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/easy-tips/sponsor/8/website" target="_blank"><img src="https://opencollective.com/easy-tips/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/easy-tips/sponsor/9/website" target="_blank"><img src="https://opencollective.com/easy-tips/sponsor/9/avatar.svg"></a>
