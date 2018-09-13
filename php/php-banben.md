@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://blog.csdn.net/u011383596/article/details/79870765">php各个版本的区别</a></h1>
-##
+## werwerw
 	PHP5.2 以前：autoload, PDO 和 MySQLi, 类型约束
 	PHP5.2：JSON 支持
 	PHP5.3：弃用的功能，匿名函数，新增魔术方法，命名空间，后期静态绑定，Heredoc 和 Nowdoc, const, 三元运算符，Phar
